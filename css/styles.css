@@ -81,9 +81,8 @@ ol,ul{
     
 /*<!--Section1--> */ 
 
-
 .section-main {
-    background: #2e2f42;
+background: #2e2f42;
 }
 .section-main-title {
 font-family: "Roboto", sans-serif;
@@ -104,6 +103,13 @@ color: #fff;
 cursor: pointer;
 background-color:#4d5ae5;
 }
+.main-section-button:hover{
+    background: #404bbf;
+    cursor: pointer;
+}
+.main-section-button:focus{
+    background: #404bbf;
+    }
 /*<!--Section2--> */ 
 .main-menu-h {
 font-family: "Roboto", sans-serif;
